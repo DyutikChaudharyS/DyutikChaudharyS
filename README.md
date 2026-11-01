@@ -40,7 +40,7 @@ Repository: https://github.com/DyutikChaudharyS/fit143-android
 - GitHub: https://github.com/DyutikChaudharyS
 - Portfolio: https://dyutik.com/
 - Email: dyutikchaudhary@gmail.com
-- LinkedIn: www.linkedin.com/dyutik
+- LinkedIn: www.linkedin.com/in/dyutik
 - Instagram / Social: @dyutiks
 
 ## Current Goals
