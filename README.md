@@ -38,10 +38,10 @@ Repository: https://github.com/DyutikChaudharyS/fit143-android
 
 ## Contact
 - GitHub: https://github.com/DyutikChaudharyS
-- Portfolio: https://project-1kumf.vercel.app
-- Email: your.email@example.com
-- LinkedIn: your-linkedin-profile
-- Instagram / Social: your-handle
+- Portfolio: https://dyutik.com/
+- Email: dyutikchaudhary@gmail.com
+- LinkedIn: www.linkedin.com/dyutik
+- Instagram / Social: @dyutiks
 
 ## Current Goals
 - Build more impactful mobile and web products
